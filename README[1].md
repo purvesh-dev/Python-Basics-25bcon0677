@@ -1,9 +1,9 @@
-# 🤖 AI Text Assistant
+#  AI Text Assistant
 
 A beginner-friendly Python project demonstrating how an AI-style assistant
 can be structured and later connected to a real AI model.
 
-## 🚀 Features
+##  Features
 
 - Interactive command-line interface
 - Modular Python code
@@ -11,7 +11,7 @@ can be structured and later connected to a real AI model.
 - Easy to understand for beginners
 - Ready to connect to a real AI API
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 AI-Text-Assistant/
@@ -20,14 +20,14 @@ AI-Text-Assistant/
 └── README.md
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Git
 - GitHub
 - Artificial Intelligence
 
-## ▶️ How to Run
+##  How to Run
 
 Make sure Python is installed, then run:
 
@@ -35,10 +35,10 @@ Make sure Python is installed, then run:
 python main.py
 ```
 
-## 💬 Example
+##  Example
 
 ```text
-🤖 AI Text Assistant
+ AI Text Assistant
 --------------------
 
 You: hello
@@ -49,7 +49,7 @@ AI: Python is a popular programming language used for AI,
 automation, web development, and data science.
 ```
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Connect to a real AI API
 - Add conversation history
@@ -58,6 +58,6 @@ automation, web development, and data science.
 - Build a web interface
 - Add secure API-key management
 
-## 👨‍💻 Author
+##  Author
 
 Purvesh
